@@ -8,7 +8,7 @@ this is a project using a servoshock as an input from a dualshock 4 to an arduin
 
 in the future I want to make the walking speed controllable (drive via joystick insetad of dpad)
 
-##Credits
+## Credits
 
 Walking algorythem: http://www.meped.io/mepedv2
 
