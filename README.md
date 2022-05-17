@@ -1,5 +1,7 @@
 # QuadrapedRobot
 
+WORK IN PROGRESS
+
 an arduino program using the mePed walking algorythem but with the input changed to use a ServoShock
 
 ## Project
